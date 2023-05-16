@@ -1,16 +1,14 @@
-### Hi there 👋
+## Introduction
+✨ Just your average anime and league enjoyer!
+- [Best moment ever](https://youtu.be/dfOsUNxc2Xg)
+<br/><br/>
 
-<!--
-**3r1cZ/3r1cZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects!
+### 💠[Handler One](https://github.com/3r1cZ/Handler-One)
+An entertainment discord bot developed in Python.
+### 💠[Personal Website](https://github.com/3r1cZ/Personal-Website)
+A portfolio website developed in HTML, CSS, and JavaScript.
+### 💠[Chatbot](https://github.com/3r1cZ/Chatbot)
+An AI learning model using the bigram model developed in Python.
+### 💠[BattleshipGame](https://github.com/3r1cZ/BattleshipGame)
+A clone of the classic Battleship board game developed in Java.
