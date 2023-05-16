@@ -1,6 +1,7 @@
 ## Introduction
-✨ Just your average anime and league enjoyer
-✨ Basketball is cool too
+✨ Just your average anime and league enjoyer 🎮
+<br/>
+✨ Basketball is cool too 🏀
 - [Best scene ever 🔥](https://youtu.be/dfOsUNxc2Xg)
 - [The GOAT 🐐](https://youtu.be/ZPCfoCVCx3U)
 - [Proud Toronto Heritage Moment 🦖](https://youtu.be/75iExVNvrWw)
