@@ -6,6 +6,10 @@
 - [Best scene ever 🔥](https://youtu.be/dfOsUNxc2Xg)
 - [The GOAT 🐐](https://youtu.be/ZPCfoCVCx3U)
 - [Proud Toronto Heritage Moment 🦖](https://youtu.be/75iExVNvrWw)
+
+### Important Info:
+- Contact: <a href = "mailto:eric.zhou029@gmail.com">eric.zhou029@gmail.com</a>
+- Current Languages: Python, Java, HTML, CSS, JavaScript
 <br clear="right"/>
 
 ## My Projects!
