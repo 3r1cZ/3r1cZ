@@ -14,10 +14,12 @@
 
 ## My Projects!
 ### 💠[Handler One](https://github.com/3r1cZ/Handler-One)
-An entertainment discord bot developed in Python.
+An entertainment discord bot developed in Python and Discord.py API.
 ### 💠[Personal Website](https://github.com/3r1cZ/Personal-Website)
-A portfolio website developed in HTML, CSS, and JavaScript.
+A portfolio website developed in HTML, CSS, and JavaScript and deployed on GitHub Pages.
+### 💠[Anime Card Battle](https://github.com/3r1cZ/Anime-Card-Battle)
+An anime card battle game developed in C# and Unity.
 ### 💠[Chatbot](https://github.com/3r1cZ/Chatbot)
-An AI learning model using the bigram model developed in Python.
+An AI learning model using the bigram model developed in Python and Jupyter Notebook.
 ### 💠[BattleshipGame](https://github.com/3r1cZ/BattleshipGame)
 A clone of the classic Battleship board game developed in Java.
