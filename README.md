@@ -9,7 +9,7 @@
 
 ### Important Info:
 - Contact: <a href = "mailto:eric.zhou029@gmail.com">eric.zhou029@gmail.com</a>
-- Current Languages: Python, Java, HTML, CSS, JavaScript
+- Current Languages: Python, Java, HTML, CSS, JavaScript, C#
 <br clear="right"/>
 
 ## My Projects!
