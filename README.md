@@ -9,7 +9,7 @@
 
 ### Important Info:
 - Contact: <a href = "mailto:eric.zhou029@gmail.com">eric.zhou029@gmail.com</a>
-- Current Languages: <i>Python, Java, HTML, CSS, JavaScript, C#</i>
+- Programming Languages: <i>Python, Java, HTML, CSS, JavaScript, C#</i>
 - Developer Tools: <i>Git, Jupyter Notebook, PyTorch, VS Code, Visual Studio, Unity, Eclipse IDE, Notepad++, Repl.it</i>
 <br clear="right"/>
 
