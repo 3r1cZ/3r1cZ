@@ -1,6 +1,6 @@
 ## Introduction
 ✨ Just your average anime and league enjoyer 🎮
-<img src='yourLieSilhouette.png' align='right'>
+<img src='yourNameTown.jpg' align='right' width='500'>
 <br/>
 ✨ Basketball is cool too 🏀
 - [Best scene ever 🔥](https://youtu.be/dfOsUNxc2Xg)
