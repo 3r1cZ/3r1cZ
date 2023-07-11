@@ -24,3 +24,7 @@ An anime card battle game developed in C# and Unity.
 An AI learning model using the bigram model developed in Python and Jupyter Notebook.
 ### 💠[BattleshipGame](https://github.com/3r1cZ/BattleshipGame)
 A clone of the classic Battleship board game developed in Java.
+
+## Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=3r1cZ&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3r1cZ&theme=radical&langs_count=5">
