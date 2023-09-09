@@ -18,10 +18,10 @@
 An entertainment discord bot developed in Python with Discord.py API.
 ### 💠[Personal Website](https://github.com/3r1cZ/Personal-Website)
 A portfolio website developed in HTML, CSS, and JavaScript and deployed on GitHub Pages.
-### 💠[Anime Card Battle](https://github.com/3r1cZ/Anime-Card-Battle)
-An anime card battle game developed in C# with Unity.
 ### 💠[Chatbot](https://github.com/3r1cZ/Chatbot)
 An AI learning model built first with the bigram model before moving to a self-attention transformer model, developed in Python with Jupyter Notebook.
+### 💠[Anime Card Battle](https://github.com/3r1cZ/Anime-Card-Battle)
+An anime card battle game developed in C# with Unity.
 ### 💠[BattleshipGame](https://github.com/3r1cZ/BattleshipGame)
 A clone of the classic Battleship board game developed in Java.
 
