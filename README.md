@@ -15,7 +15,7 @@
 ### 💠[Handler One](https://github.com/3r1cZ/Handler-One)
 An entertainment discord bot developed in Python with Discord.py API.
 ### 💠[Chatbot](https://github.com/3r1cZ/Chatbot)
-An AI learning model built first with the bigram model before moving to a self-attention transformer model, developed in Python with Jupyter Notebook.
+A text-generative AI learning model first built with the bigram model before being implemented with a self-attention transformer model, developed in Python with Jupyter Notebook.
 ### 💠[Puzzle Game](https://github.com/3r1cZ/Puzzle-Game)
 A web application developed in JavaScript, HTML, and CSS that allows a user to complete puzzles.
 ### 💠[Personal Website](https://github.com/3r1cZ/Personal-Website)
