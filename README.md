@@ -17,9 +17,9 @@ An entertainment discord bot developed in Python with Discord.py API.
 ### 💠[Chatbot](https://github.com/3r1cZ/Chatbot)
 A text-generative AI learning model first built with the bigram model before being implemented with a self-attention transformer model, developed in Python with Jupyter Notebook.
 ### 💠[Puzzle Game](https://github.com/3r1cZ/Puzzle-Game)
-A web application developed in JavaScript, HTML, and CSS that allows a user to complete puzzles.
-### 💠[Personal Website](https://github.com/3r1cZ/Personal-Website)
-A portfolio website developed in HTML, CSS, and JavaScript and deployed on GitHub Pages.
+A web application developed with JavaScript, HTML, and CSS that allows a user to complete puzzles.
+### 💠[Portfolio Website](https://github.com/3r1cZ/3r1cZ.github.io)
+A portfolio website developed with TypeScript, React.js, Vite, Bootstrap, HTML, and CSS and deployed on GitHub Pages.
 ### 💠[BattleshipGame](https://github.com/3r1cZ/BattleshipGame)
 A clone of the classic Battleship board game developed in Java.
 
