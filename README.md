@@ -7,8 +7,9 @@
 
 ### Important Info:
 - Contact: <a href = "mailto:eric.zhou029@gmail.com">eric.zhou029@gmail.com</a>
-- Programming Languages: <i>Java, Python, HTML, CSS, JavaScript, TypeScript, C#, Assembly Language, Scheme, SQL</i>
-- Other Related Tools: <i>React.js, Vite, Bootstrap, Git, Jupyter Notebook, PyTorch, Conda, Android Studio, Firebase, PostgreSQL, UML, VS Code, Visual Studio, Unity, Eclipse IDE, Repl.it, Quartus II, Eclipse IDE, Repl.it, Quartus II</i>
+- Programming Languages: <i>Java, Python, HTML, CSS, JavaScript, TypeScript, C#, C++, Assembly, Scheme, SQL, XML</i>
+- Other Related Tools: <i>RReact.js, Vite, Bootstrap, Git, Jupyter Notebook, PyTorch, Conda, Android Studio, Firebase, PostgreSQL, UML, VS Code, Visual Studio, Unity, Eclipse, Repl.it, Quartus II, PowerPoint, Word, Excel
+</i>
 <br clear="right"/>
 
 ## My Projects!
