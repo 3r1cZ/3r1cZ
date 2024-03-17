@@ -5,10 +5,9 @@
 - [An absolutely beautiful moment...](https://youtu.be/dfOsUNxc2Xg)
 - [Proud Toronto Heritage Moment 🦖](https://youtu.be/75iExVNvrWw)
 
-### Important Info:
-- Contact: <a href = "mailto:eric.zhou029@gmail.com">eric.zhou029@gmail.com</a>
-- Programming Languages: <i>Java, Python, HTML, CSS, JavaScript, TypeScript, C#, C++, Assembly, Scheme, SQL, XML</i>
-- Other Related Tools: <i>RReact.js, Vite, Bootstrap, Git, Jupyter Notebook, PyTorch, Conda, Android Studio, Firebase, PostgreSQL, UML, VS Code, Visual Studio, Unity, Eclipse, Repl.it, Quartus II, PowerPoint, Word, Excel
+### Skills:
+- Programming Languages: <i>Java, Python, HTML, CSS, JavaScript, TypeScript, C#, C++, Go, Assembly, Scheme, SQL, Prolog</i>
+- Software Tools: <i>React.js, Vite, Bootstrap, Git, Jupyter Notebook, PyTorch, Conda, Android Studio, Firebase, PostgreSQL, UML, VS Code, Visual Studio, Unity, Eclipse, Repl.it, Quartus II, IntelliJ
 </i>
 <br clear="right"/>
 
