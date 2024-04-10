@@ -6,9 +6,11 @@
 - [Proud Toronto Heritage Moment 🦖](https://youtu.be/75iExVNvrWw)
 
 ### Skills:
-- Programming Languages: <i>Java, Python, HTML, CSS, JavaScript, TypeScript, C#, C++, Go, Assembly, Scheme, SQL, Prolog</i>
-- Software Tools: <i>React.js, Vite, Bootstrap, Git, Jupyter Notebook, PyTorch, Conda, Android Studio, Firebase, PostgreSQL, UML, VS Code, Visual Studio, Unity, Eclipse, Repl.it, Quartus II, IntelliJ
-</i>
+- Programming Languages: <i>Java, Python, JavaScript, TypeScript, C#, C++, Go, Assembly, Scheme, SQL, Prolog</i>
+- Web Development: <i>React.js, Node.js, Express.js, Vite, Bootstrap, HTML, CSS</i>
+- Databases: <i>Firebase, PostgreSQL</i>
+- Artificial Intelligence: <i>PyTorch, Jupyter Notebook, Conda</i>
+- Developer Tools: <i>Git, Android Studio, Unity, Quartus II</i>
 <br clear="right"/>
 
 ## My Projects!
