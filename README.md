@@ -4,14 +4,7 @@
 <br/>
 - [An absolutely beautiful moment...](https://youtu.be/dfOsUNxc2Xg)
 - [Proud Toronto Heritage Moment 🦖](https://youtu.be/75iExVNvrWw)
-
-### Skills:
-- Programming Languages: <i>Java, Python, JavaScript, TypeScript, C#, C++, Go, Assembly, Scheme, SQL, Prolog</i>
-- Web Development: <i>React.js, Node.js, Express.js, Vite, Bootstrap, HTML, CSS</i>
-- Databases: <i>Firebase, PostgreSQL</i>
-- Artificial Intelligence: <i>PyTorch, Jupyter Notebook, Conda</i>
-- Developer Tools: <i>Git, Android Studio, Unity, Quartus II</i>
-<br clear="right"/>
+<br>
 
 ## My Projects!
 ### 💠[Handler One](https://github.com/3r1cZ/Handler-One)
