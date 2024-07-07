@@ -2,7 +2,6 @@
 ✨ Just your average anime and basketball enjoyer 🏀
 <img src='yourNameTown.jpg' align='right' width='450'>
 <br/>
-- [An absolutely beautiful moment...](https://youtu.be/dfOsUNxc2Xg)
 - [Proud Toronto Heritage Moment 🦖](https://youtu.be/75iExVNvrWw)
 <br>
 
