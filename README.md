@@ -21,10 +21,3 @@ A portfolio website developed with TypeScript, React.js, Vite, Bootstrap, HTML, 
 A web application developed with JavaScript, HTML, and CSS that allows a user to complete puzzles.
 ### 💠[Battleship Clone](https://github.com/3r1cZ/BattleshipGame)
 A clone of the classic Battleship board game developed in Java.
-
-## Stats
-<p>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=3r1cZ&theme=radical">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3r1cZ&theme=radical&langs_count=5">
-</p>
