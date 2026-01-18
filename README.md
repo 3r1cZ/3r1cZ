@@ -8,13 +8,15 @@
 
 ## My Projects!
 ### 💠[Hotel Booking Service](https://github.com/MatinHMobini/CSI_2132_Databases_1)
-A web application for booking hotel rooms created using TypeScript, HTML, CSS, React.js, Vite, Bootstrap, Node.js, Express.js, PostgreSQL, and deployed on GitHub Pages
+A web application for booking hotel rooms created using TypeScript, HTML, CSS, React.js, Vite, Bootstrap, Node.js, Express.js, PostgreSQL, and deployed on GitHub Pages.
 ### 💠[Healthcare Appointment Management System](https://github.com/uOttawaSEGA2023/project-project-group-11)
-An android application for managing doctor appointments made with Java, Firebase, and Android Studio
+An android application for managing doctor appointments made with Java, Firebase, and Android Studio.
 ### 💠[Handler One](https://github.com/3r1cZ/Handler-One)
 An entertainment discord bot developed in Python with Discord.py API.
 ### 💠[Chatbot](https://github.com/3r1cZ/Chatbot)
 A text-generative AI learning model first built with the bigram model before being implemented with a self-attention transformer model, developed in Python with Jupyter Notebook.
+### 💠[My Gambling Buddy](https://github.com/MatinHMobini/My-Gambling-Buddy)
+A web application connecting the BallDontLie API with OpenAI to provide AI-driven sports data insights and responses, developed for uOttaHack 2026.
 ### 💠[Portfolio Website](https://github.com/3r1cZ/3r1cZ.github.io)
 A portfolio website developed with TypeScript, React.js, Vite, Bootstrap, HTML, and CSS and deployed on GitHub Pages.
 ### 💠[Puzzle Game](https://github.com/3r1cZ/Puzzle-Game)
