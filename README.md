@@ -5,7 +5,6 @@
 - [Proud Toronto Heritage Moment 🦖](https://youtu.be/75iExVNvrWw)
 <br><br><br><br><br><br><br><br><br><br><br>
 
-
 ## My Projects!
 ### 💠[Hotel Booking Service](https://github.com/MatinHMobini/CSI_2132_Databases_1)
 A web application for booking hotel rooms created using TypeScript, HTML, CSS, React.js, Vite, Bootstrap, Node.js, Express.js, PostgreSQL, and deployed on GitHub Pages.
@@ -23,3 +22,6 @@ A portfolio website developed with TypeScript, React.js, Vite, Bootstrap, HTML, 
 A web application developed with JavaScript, HTML, and CSS that allows a user to complete puzzles.
 ### 💠[Battleship Clone](https://github.com/3r1cZ/BattleshipGame)
 A clone of the classic Battleship board game developed in Java.
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3r1cZ&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="3r1cZ" />
